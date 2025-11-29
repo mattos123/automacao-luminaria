@@ -1,0 +1,17 @@
+
+{
+  "name": "controle-luminaria",
+  "version": "1.0.0",
+  "description": "Skill Alexa para controlar luminária via endpoint GET",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.10.0",
+    "ask-sdk-model": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
